@@ -1,0 +1,13 @@
+Algorithm: Alternate Time Optimal Sort (Multi-threaded)
+Number of nodes: 10
+Total time: 0.0070 seconds
+Total comparisons: 30
+Total exchanges: 44
+Total messages sent: 0
+Correctly sorted: True
+
+Initial values:
+[928, 741, 703, 806, 785, 902, 927, 155, 267, 691]
+
+Final values:
+[155, 267, 691, 703, 741, 785, 806, 902, 927, 928]

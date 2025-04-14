@@ -1,0 +1,13 @@
+Algorithm: Odd-Even Transposition Sort
+Number of nodes: 30
+Total time: 0.0021 seconds
+Total comparisons: 870
+Total exchanges: 1076
+Total messages sent: 3480
+Correctly sorted: True
+
+Initial values:
+[1855, 1481, 1406, 1612, 1570, 1803, 1853, 310, 533, 1381, 1302, 1740, 1854, 208, 1787, 671, 1174, 1855, 347, 56, 843, 834, 154, 212, 257, 654, 972, 1946, 1190, 921]
+
+Final values:
+[56, 154, 208, 212, 257, 310, 347, 533, 654, 671, 834, 843, 921, 972, 1174, 1190, 1302, 1381, 1406, 1481, 1570, 1612, 1740, 1787, 1803, 1853, 1854, 1855, 1855, 1946]
