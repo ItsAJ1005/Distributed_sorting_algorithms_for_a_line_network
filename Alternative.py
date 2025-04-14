@@ -207,7 +207,7 @@ def simulate_alternate_time_optimal_sort_threaded(n, input_array=None):
     }
     
     return results
-
+ 
 # Driver function of the program
 def main():
     parser = argparse.ArgumentParser(description='Alternate Time Optimal Sorting')

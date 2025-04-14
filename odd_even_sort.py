@@ -10,7 +10,7 @@ from datetime import datetime
    - Space Complexity: O(n) for storing node values and communication message queues.
    - Data Structures: Lists for nodes and for simulating message queues.
 """
-
+ 
 class Node:
     def __init__(self, nodeID, totalNodes, value=None):
         self.id = nodeID
